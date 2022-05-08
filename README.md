@@ -2,6 +2,23 @@
 
 ## Explain communication concepts and strategies
 
+In the field of work, communication strategies are the actions carried out by an organisation in the area of communication to effectively achieve the objectives and 
+goals set. They can be established for different reasons: restructuring, improvement of the corporate image, search for an increase in sales, among others.
+
+### Types of communication strategies:
+
+-Launch strategy
+-Confidence strategy
+-Positioning strategy
+-Traditional and digital PR strategy
+-Digital marketing and SEO strategy
+-Social media strategy
+-News content and brand journalism strategy -Media training strategy
+-Media training strategy -Media training strategy
+-Social responsibility strategy
+-Growth strategy
+
+[More information](https://www.oxfordbibliographies.com/view/document/obo-9780199756841/obo-9780199756841-0007.xml)
 
 ## Show confidence and skills in oral communications and presentations
 
