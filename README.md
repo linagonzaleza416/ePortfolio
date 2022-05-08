@@ -2,6 +2,11 @@
 
 ## Explain communication concepts and strategies
 ## Show confidence and skills in oral communications and presentations
+The objective of this assignment was to provide an analysis of a situation that requires the presence of ethics in ICT. 
+The presentation was to include:
+Background to the topic, list of ethical considerations that arise with the topic, explanation of an ethical theory related to the topic and finally an analysis of the scenario. 
+
+[This was the result]()
 
 ## Work effectively as part of a team
 The aim of this task was to gain experience in project management, where we had to act as an adaptable ICT project manager. 
