@@ -1,13 +1,24 @@
 # ePortfolio
 
 ## Explain communication concepts and strategies
-
-
+Communication is the exchange of information between a sender and a receiver. In the past, you only had to worry about how you communicated face-to-face or in writing. 
+Technology has changed everything. Information must be transmitted in a way that takes all aspects into account. This is where communication strategies come into play. 
+The aim of communication strategies is to exchange information efficiently and effectively.
 
 ### Types of communication strategies:
 
+A communication strategy can be verbal, non-verbal or visual. 
 
-[More information](https://study.com/academy/lesson/what-are-communication-strategies-definition-types-examples.html)
+Communication strategies can be classified into two categories: written and oral. Written strategies consist of avenues such as email, text and chat. Examples that 
+fall into the oral category are phone calls, video chats and face-to-face conversations.
+
+Non-verbal communication strategies consist mainly of visual signals, such as body language, facial expressions, physical distance between communicators or tone of 
+voice. These signals are usually unintentional.
+
+Visual communication strategies can be seen through posters, websites and illustrations. These strategies are used in the workplace to attract attention and provide 
+documentation. Human resources are required to place certain visual elements in the workplace to comply with safety laws.
+
+[Reference](https://study.com/academy/lesson/what-are-communication-strategies-definition-types-examples.html)
 
 ## Show confidence and skills in oral communications and presentations
 
@@ -16,6 +27,7 @@ The presentation was to include:
 
 Background to the topic, list of ethical considerations that arise with the topic, explanation of an ethical theory related to the topic and finally an analysis of the 
 scenario. 
+
 [This was the result](evidence2.mp4)
 
 ## Work effectively as part of a team
