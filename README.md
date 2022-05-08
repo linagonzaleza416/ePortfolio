@@ -10,6 +10,7 @@ Background to the topic, list of ethical considerations that arise with the topi
 [This was the result](evidence2.mp4)
 
 ## Work effectively as part of a team
+
 The aim of this task was to gain experience in project management, where we had to act as an adaptable ICT project manager. 
 
 The following tasks had to be performed
@@ -22,8 +23,10 @@ The following tasks had to be performed
 
 ## Communicate effectively in a professional context.
 ## Define and demonstrate conflict management and resolution strategies.
+
 In this task, as highlighted in "Work effectively as part of a team", we had the responsibility to talk about the possible problems that could arise in our project, one 
-of these problems was precisely "Poor workteam" in which the importance of good communication in the work group is highlighted.
+of these problems was precisely "Poor Teamwork" in which the importance of good communication in the work group is highlighted.
+
 [Poor Teamwork](evidence5.mp4)
 
 
