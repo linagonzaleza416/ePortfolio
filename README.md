@@ -26,9 +26,8 @@ The following tasks had to be performed
 
 ## Communicate effectively in a professional context.
 
-For two years I worked in an insurance company in Colombia, which is known as [Axa Colpatria](https://www.axacolpatria.co/portal/), in this company I worked in the area of customer service, my functions  
-were based on receiving different types of requests from customers, in reference to insurance that had previously acquired, it is noteworthy that the company had a 
-wide variety of insurance such as life insurance, car insurance, home insurance, etc..
+For two years I worked in an insurance company in Colombia, which is known as [Axa Colpatria](https://www.axacolpatria.co/portal/), in this company I worked in the area of customer service, 
+my functions were based on receiving different types of requests from customers, in reference to insurance that had previously acquired, it is noteworthy that the company had a wide variety of insurance such as life insurance, car insurance, home insurance, etc..
 Each insurance contains different types of clauses and values, so it was necessary to be a comprehensive officer, which contained the necessary information of each 
 type of insurance, as each client has a completely different request to the previous one, in turn the knowledge of all insurance would facilitate the understanding of 
 each situation, however from my experience, I can say that the most important thing to handle situations under pressure is to have good communication. If I could 
